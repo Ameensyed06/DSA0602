@@ -1,3 +1,0 @@
-plot(1:5, sales, type="o", col="blue", lwd=2, pch=16, xaxt="n",
-     xlab="Month", ylab="Sales (in $)", main="Monthly Sales Trend")
-axis(1, at=1:5, labels=month)
